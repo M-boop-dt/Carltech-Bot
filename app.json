@@ -19,7 +19,7 @@
 
 
 {
-  "name":"Spark-X-2025",
+  "name":"Whittaker -X-2025",
   "description":"Whatsapp bot developed by Carl William",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/n0hlw1.jpg",
@@ -68,14 +68,14 @@
      "PM_PERMIT" :
      {
       "description":"Other users can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
-      "value":"no",
+      "value":"yes",
       "required":false
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Spark-X-2025",
+      "value":"Whittaker -X-2025",
       "required":false
 
     } ,
@@ -114,7 +114,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐂𝐚𝐫𝐥 𝐖𝐢𝐥𝐥𝐢𝐚𝐦"
+    "value": "Ben Whittaker "
   },
     "NUMERO_OWNER":
   {
@@ -137,7 +137,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTIDELETE1" : {
