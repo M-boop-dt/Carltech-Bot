@@ -322,7 +322,7 @@
   "main": "body.js",
   "type": "commonjs",
   "scripts": {
-  "start": "node body.js"  
+  "start": "node index.js"  
   },
   "keywords": [
     "termux",
